@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Testing Meshes" ] },
+    "homepage": [
+      {
+        "id": "The Internet Archive",
+        "type": "Text",
+        "label": { "en": [ "Testing Meshes" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "archive.org",
+        "type": "Agent",
+        "label": { "en": [ "The Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 809.0,
+        "items": [
+          {
+            "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia802900.us.archive.org/8/items/meshesoftheafternoon/Meshes%20of%20the%20Afternoon.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 809.0
+                },
+                "target": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
