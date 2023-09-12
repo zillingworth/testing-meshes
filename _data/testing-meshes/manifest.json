@@ -23,6 +23,16 @@
         "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
         "type": "Canvas",
         "duration": 809.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/testing-meshes/annotations/testing-meshes-canvas-1-shadow.json",
+            "label": {
+              "none": ["Shadow"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/paintings",

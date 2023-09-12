@@ -1,0 +1,597 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/testing-meshes/annotations/testing-meshes-canvas-1-shadow.json",
+  "type": "AnnotationPage",
+  "label": "Shadow",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Here we get the first glimpse at something important to understanding the artist’s play with shadow in that the form already is chosen in Black & White film.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We are specifically seeing a shadow of the woman first, an indirect showcase of what the woman is doing— leading us to think about the difference between what Deren would want between showing the woman versus the shadow.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Shadow reaches for the flower, and it combines the shot of showing the shadow and the real hand coming together as she gets closer to the flower. However, the intention of making the shadow go for the flower first catches the eye.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "30"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The camera focuses on the shadow of her walking, not the actual figure.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "40"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The shadow and hand together show that the double meaning could rely on both her shadow as a version of herself, in the spell of this life or dream, but also the importance of how shadow is created: light being thrown on you. This connects with themes in the life of this woman being watched.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "86.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Why would Deren emphasize the shadow of the woman even after the dream had begun? And looking back after other annotations made, what could the different aspects of shadow represent if they were both heavily influenced or created by the man?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "210.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We see a shadow on the bed, creeping towards the mirror. It turns out to be the man, and we get another small indication that the connection between the shadows in the film and the man, now seeing the last type of shadow, the pure use of shadow. It seems to highlight largely what the woman was feeling, what motivates this quest in her dream; the lack of control, the dominance, and colonization of the man within her. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "700.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now, after the mirror had been broken once she found out who the shadow-mirror-creature was, we see the film focus on the shadow of the man. Is this implying he has his own shadow to deal with? Or is it yet another connection they are trying to make between the man and the pure shadows?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "775.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What is important to remember for us is that it is her, and her shadow, that initally pick up the flower. This will be important for our introduction of the shadow-mirror-creature.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A very dark silhouette of a man is seen. This is before the dream has started, and might represent the way aspects of the dream are attempting to attach to parts of experiences that did really happen. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "46"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "As the dream begins, we are now introduced to the shadow-mirror-creature for the first time, appearing in the same driveway as the silhouette of the man was before the dream started. The shadow-mirror-creature is also seen here carrying the flower, the same flower, that both the shadow of the woman and the woman picked up before the dream started. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "197.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The shadow-mirror-creature is now seen walking off beyond the corner, just like the silhouette of the man was at the beginning of the film. This then signals the start of the cyclical nature of the film. This is also important for us to remember when connecting the idea of the woman's shadow and the man at the end of the story. Why would Deren want to connect the idea of the man with the use of her shadow-mirror-creature?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "232.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We see the shadow-mirror-creature again, in the same spot, repeating the cycle once again. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "392.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The shadow-mirror-creature is now inside the house, not seen in their typical cyclical path down the street. Heading up the stairs, the creature places a flower on the bed. This change deeply affects the woman, as she is about to start losing control of her place. We are also led to believe that this version of the woman is not her real self as she is still sleeping. Moreso, these attributes of losing control are found in conceptual understandings of shadows as well, as the shadow is completely dependent on decisions and movements of the \"real\" person. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "420.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Back to the original cycle, we see the shadow-mirror-creature again. Here is where it became more obvious to me, another connection: her inability to catch the shadow-mirror-creature. This reminds me of the idea that you cannot truly touch your shadow, as by the time you touch the ground, or wherever the shadow might be, it is gone. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "519.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "As all the versions, or shadows, of the woman come to the table to pick up the key, they all seem to fail except the newest one, whose hand turns black after picking up the key. Both the inability to pick up the key, as well as the blackened hand when picking it up, seem to indicate that these versions of the woman are shadows. So, going forward it might need to be more clear on what the difference between these two are. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "600.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "As the shadow goes to stab the sleeping version of herself, she seems to wake up and instead of her shadow standing there to kill her, it is the man. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "650.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "He happens to be holding the flower. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "660.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-meshes-canvas-1-shadow-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The man places the flower on the bed, exactly like the shadow-mirror-creature did minutes before. This ties again the aspect we saw at the very beginning of the film, linking the man to the silhouette walking down the street. This is now the second time that one of the shadows in the film connects to the man. First, the \"woman-shadow\" when going to kill the woman sleeping, and now the \"shadow-mirror-creature,\" both at the beginning walking down the street and now in placing the flower on the bed. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://zillingworth.github.io/testing-meshes/testing-meshes/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "689.0"
+        }
+      }
+    }
+  ]
+}
